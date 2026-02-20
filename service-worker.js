@@ -1,12 +1,12 @@
-const CACHE_NAME = 'site-static-v5';
+const CACHE_NAME = 'site-static-v6';
 
 const assets = [
     './',
     './index.html',
     './styles.css',
     './manifest.json',
-    './icons/icon-192x192.png',
-    './icons/icon-512x512.png'
+    './icons/icono-192x192.png',
+    './icons/icono-512x512.png'
 ];
 
 // Install
